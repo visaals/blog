@@ -2,10 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://visaal.io/about/</loc><lastmod>2020-05-10T18:32:35-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://visaal.io/</loc><lastmod>2020-05-10T18:32:35-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://visaal.io/another-post/</loc><lastmod>2020-05-10T15:49:34-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://visaal.io/posts/</loc><lastmod>2020-05-10T15:49:34-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://visaal.io/my-first-post/</loc><lastmod>2020-05-06T00:48:53-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://visaal.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://visaal.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>http://visaal.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://visaal.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
