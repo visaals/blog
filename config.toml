@@ -1,4 +1,4 @@
-baseURL = "http://visaal.io/"
+baseURL = "http://visaalambalam.com/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -22,21 +22,13 @@ theme = "LoveIt"
     title = ""
     weight = 1
   [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "categories"
-    url = "/categories/"
-    title = ""
-    weight = 2
-  [[menu.main]]
     identifier = "about"
     pre = ""
     post = ""
     name = "about"
     url = "/about/"
     title = ""
-    weight = 3
+    weight = 2
 
 [params]
   #  LoveIt theme version
@@ -127,9 +119,9 @@ theme = "LoveIt"
       # URL of avatar shown in home page
       # avatarURL = "/images/avatar.png"
       #  title shown in home page
-      title = "Visaal Ambalam"
+      title = ""
       # subtitle shown in home page
-      subtitle = "Hey, my name is Visaal."
+      subtitle = ""
       # whether to use typeit animation for subtitle
       typeit = false 
       # whether to show social links
