@@ -1,15 +1,26 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All Posts - Visaal</title>
-        <link>http://visaals.github.io/posts/</link>
-        <description>All Posts | Visaal</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>visaal.sivakumar@gmail.com (Visaal Ambalam)</managingEditor>
-            <webMaster>visaal.sivakumar@gmail.com (Visaal Ambalam)</webMaster><lastBuildDate>Fri, 22 May 2020 11:38:24 -0400</lastBuildDate><atom:link href="http://visaals.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Why I&#39;m Starting This Blog</title>
-    <link>http://visaals.github.io/why-im-starting-this-blog/</link>
-    <pubDate>Fri, 22 May 2020 11:38:24 -0400</pubDate>
-    <author>Author</author>
-    <guid>http://visaals.github.io/why-im-starting-this-blog/</guid>
-    <description><![CDATA[<p>In a nutshell, I want to! That&rsquo;s it. That&rsquo;s the blog post. (jk)</p>]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Visaal</title>
+    <link>http://visaals.github.io/posts/</link>
+    <description>Recent content in Posts on Visaal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>visaal.sivakumar@gmail.com (Visaal Ambalam)</managingEditor>
+    <webMaster>visaal.sivakumar@gmail.com (Visaal Ambalam)</webMaster>
+    <lastBuildDate>Fri, 22 May 2020 11:38:24 -0400</lastBuildDate>
+    
+	<atom:link href="http://visaals.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why I&#39;m Starting This Blog</title>
+      <link>http://visaals.github.io/why-im-starting-this-blog/</link>
+      <pubDate>Fri, 22 May 2020 11:38:24 -0400</pubDate>
+      <author>visaal.sivakumar@gmail.com (Visaal Ambalam)</author>
+      <guid>http://visaals.github.io/why-im-starting-this-blog/</guid>
+      <description>&lt;p&gt;In a nutshell, I want to! That&amp;rsquo;s it. That&amp;rsquo;s the blog post. (jk)&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
 </rss>
