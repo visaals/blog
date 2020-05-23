@@ -2,9 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://visaal.io/posts/</loc><lastmod>2020-05-22T11:38:24-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://visaal.io/why-im-starting-this-blog/</loc><lastmod>2020-05-22T11:38:24-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://visaal.io/about/</loc><lastmod>2020-05-10T18:32:35-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://visaal.io/</loc><lastmod>2020-05-10T18:32:35-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://visaal.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://visaal.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>http://visaals.github.io/posts/</loc><lastmod>2020-05-22T11:38:24-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://visaals.github.io/why-im-starting-this-blog/</loc><lastmod>2020-05-22T11:38:24-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://visaals.github.io/about/</loc><lastmod>2020-05-10T18:32:35-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://visaals.github.io/</loc><lastmod>2020-05-10T18:32:35-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://visaals.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://visaals.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

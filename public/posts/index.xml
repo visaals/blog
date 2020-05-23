@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Visaal</title>
-        <link>http://visaal.io/posts/</link>
+        <link>http://visaals.github.io/posts/</link>
         <description>All Posts | Visaal</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>visaal.sivakumar@gmail.com (Visaal Ambalam)</managingEditor>
-            <webMaster>visaal.sivakumar@gmail.com (Visaal Ambalam)</webMaster><lastBuildDate>Fri, 22 May 2020 11:38:24 -0400</lastBuildDate><atom:link href="http://visaal.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>visaal.sivakumar@gmail.com (Visaal Ambalam)</webMaster><lastBuildDate>Fri, 22 May 2020 11:38:24 -0400</lastBuildDate><atom:link href="http://visaals.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Why I&#39;m Starting This Blog</title>
-    <link>http://visaal.io/why-im-starting-this-blog/</link>
+    <link>http://visaals.github.io/why-im-starting-this-blog/</link>
     <pubDate>Fri, 22 May 2020 11:38:24 -0400</pubDate>
     <author>Author</author>
-    <guid>http://visaal.io/why-im-starting-this-blog/</guid>
+    <guid>http://visaals.github.io/why-im-starting-this-blog/</guid>
     <description><![CDATA[<p>In a nutshell, I want to! That&rsquo;s it. That&rsquo;s the blog post. (jk)</p>]]></description>
 </item></channel>
 </rss>
