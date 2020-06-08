@@ -25,16 +25,16 @@ If anyone claims they accomplished something on their own, they are mistaken. We
 
 Just like Aang from *Avatar: The Last Airbender* needed the help of previous avatars to save the world,  we need role models to help us persevere and most importantly — to believe in us.
 
-If anyone is an aspiring software engineer and is struggling to find software engineering job, feel free to reach out to me anytime. **My twitter DMs are open @visaals.** I've been through the job hunting process and can confirm it sucks. The unfortunate reality is that software engineering skills do not cleanly translate to demonstrating software engineering skills in while interviewing. I have spent considerable amount of time and energy curating the content I found most helpful, persevering through failed interviews, and ultimately getting five New Grad SWE job offers ranging from $70k to $150k annually. 
+**If anyone is an aspiring software engineer and is struggling to find software engineering job, feel free to reach out to me anytime.** My twitter DMs are open @visaals. I've been through the job hunting process and can confirm it **sucks**. The unfortunate reality is that software engineering skills do not cleanly translate to demonstrating software engineering skills in while interviewing. I have spent considerable amount of time and energy curating the content I found most helpful, persevering through failed interviews, and ultimately getting four New Grad SWE job offers that **more than doubled my intern return offer of 69k** annually.
 
 ### Chasing The Dream of Passive Income
 
-For the past ~2 years, I've followed several creators achieving a passive income through this process:
+For the past ~2 years, I've followed several creators achieving a passive income through this [process](https://www.youtube.com/watch?v=TH0nNn6SmXw):
 
 1. **consistently** giving away valuable content for free for years, which leads to
 2. **establishing credibility** with an unique online brand, with hours of useful content as proof, which leads to
 3. **gradually** building an audience of people that have gained value from your content, trust your expertise in certain areas, and benefit from your curated content recommendations, which allows you to
-4. **Utilizing** your audience as a distribution network for occasional paid content, in additional to the usual free content, with the idea is that the paid content is a form of *digital* *wealth* — "create once, sell forever", which compares to *real estate wealth* — "buy property, rent forever" or *business wealth* — "create a profitable business, sell the products forever." 
+4. **utilizing** your audience as a distribution network for occasional paid content, in additional to the usual free content, with the idea is that the paid content is a form of *digital* *wealth* — "create once, sell forever", which compares to *real estate wealth* — "buy property, rent forever" or *business wealth* — "create a profitable business, sell the products forever." 
 
 Here are a few examples of people who've followed this exact path growing positive-sum internet economy:
 
@@ -77,7 +77,7 @@ And general interesting thoughts and ideas I have and come across:
 And more, coming soon to an inbox near you! 
 
 ### Final Thoughts
-If you've made it this far, thank you. If you're particularly interested in anything above, let me know on twitter and consider subscribing to get notified of new posts. 
+If you've made it this far, **thank you**. If you're particularly interested in anything above, let me know on twitter and consider subscribing to get notified of new posts. 
 
 Special thanks to my friends who've endured me talking about starting a blog for years yet still tirelessly encouraging it. You all know who you are :) 
 
