@@ -1,5 +1,7 @@
 {{- $params := .Scratch.Get "params" -}}
 
+{{/*Adding Google Analytics Tag*/}}
+{{ partial "google/analytics.html" . }}
 <meta name="Description" content="{{ $params.description | default .Site.Params.description }}">
 
 {{- template "_internal/opengraph.html" . -}}
