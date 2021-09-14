@@ -1,6 +1,7 @@
 ---
 title: "Why I\'m Starting This Blog"
 date: 2020-05-22T11:38:24-04:00
+featuredImagePreview: "ice.jpg"
 draft: false 
 ---
 In a nutshell, I want to! That's it. That's the blog post. (jk) 
@@ -34,7 +35,7 @@ For the past ~2 years, I've followed several creators achieving a passive income
 1. **consistently** giving away valuable content for free for years, which leads to
 2. **establishing credibility** with an unique online brand, with hours of useful content as proof, which leads to
 3. **gradually** building an audience of people that have gained value from your content, trust your expertise in certain areas, and benefit from your curated content recommendations, which allows you to
-4. **utilizing** your audience as a distribution network for occasional paid content, in additional to the usual free content, with the idea is that the paid content is a form of *digital* *wealth* — "create once, sell forever", which compares to *real estate wealth* — "buy property, rent forever" or *business wealth* — "create a profitable business, sell the products forever." 
+4. **utilize** your audience as a distribution network for occasional paid content, in additional to the usual free content, with the idea is that the paid content is a form of *digital* *wealth* — "create once, sell forever", which compares to *real estate wealth* — "buy property, rent forever" or *business wealth* — "create a profitable business, sell the products forever." 
 
 Here are a few examples of people who've followed this exact path growing positive-sum internet economy:
 
@@ -81,5 +82,16 @@ If you've made it this far, **thank you**. If you're particularly interested in 
 
 Special thanks to my friends who've endured me talking about starting a blog for years yet still tirelessly encouraging it. You all know who you are :) 
 
-{{< subscribe >}}
+If you want to be notified when I make new content, join my email list (below). 
+<br>
+<br>
+<center>
+<script async data-uid="9c4082ae61" src="https://visaalambalam.ck.page/9c4082ae61/index.js"></script>
+</center>
 
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@visaals">
+<meta name="twitter:creator" content="@visaals">
+<meta name="twitter:title" content="Why I'm Starting This Blog">
+<meta name="twitter:description" content="In a nutshell, I want to! That’s it. That’s the blog post.(jk)">
+<meta name="twitter:image" content="http://visaalambalam.com/ice.jpg">
