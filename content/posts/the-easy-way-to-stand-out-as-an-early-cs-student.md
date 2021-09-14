@@ -1,8 +1,13 @@
 ---
-title: "CS Summer Checklist"
+title: "The Easy Way To Stand Out As An Early CS Student"
+subtitle: ""
+description: "The concise, stress free guide start your journey to break into tech for 1st and 2nd year CS students."
+featuredImagePreview: "pinpoint_neighborhoods.png"
 date: 2021-09-12T10:37:19-04:00
 draft: false
 ---
+
+<!--more-->
 
 ## Goals
 
@@ -128,3 +133,17 @@ Luckily for you, CS is not a zero sum game like applying to medical schools. The
 
 - [ ]  Have fun (required)
 
+
+<br>
+<br>
+<center>
+<script async data-uid="db5b4853f6" src="https://visaalambalam.ck.page/db5b4853f6/index.js"></script>
+</center>
+<br>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@visaals">
+<meta name="twitter:creator" content="@visaals">
+<meta name="twitter:title" content="The Easy Way To Stand Out As An Early CS Student">
+<meta name="twitter:description" content="The concise, stress free guide start your journey to break into tech for 1st and 2nd year CS students.">
+<meta name="twitter:image" content="http://visaalambalam.com/pinpoint_neighborhoods.png">
