@@ -16,7 +16,7 @@ draft: false
 - [ ]  Build an application that solves a small problem
 - [ ]  Show it to the world by deploying it with Heroku, GitHub Pages, Netlify, or AWS/GCP (in order of easiest to hardest)
 
-The point of this is for you yourself to learn how to go from an idea in your head to a tangible product that anyone in the world can use (AKA the process of software engineering). Once you can do it yourself and employers can see that you've done it youself, you'll stand out amongst the crowd. It will be a no-brainer for them to take a chance on you with an interview. As a bonus, it will give you something substantial to talk about in your interviews as well. 
+The point of this is for you yourself to learn how to go from an idea in your head to a tangible product that anyone in the world can use (AKA the process of software engineering). Once you can do it yourself and employers can see that you've done it yourself, you'll stand out amongst the crowd. It will be a no-brainer for them to take a chance on you with an interview. As a bonus, it will give you something substantial to talk about in your interviews as well. 
 
 In college, I got away with showcasing [projects](https://github.com/visaals/Portfolio) from college classes and [stuff](https://github.com/cameronjump/puzzlr) I built with friends at hackathons. Hackathons are great because you don't have to scramble to find time between exams and class projects. Since y’all started CS way before me, this is a chance to get 1 step ahead. 
 
