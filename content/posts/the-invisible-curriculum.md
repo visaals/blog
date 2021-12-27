@@ -63,7 +63,15 @@ As universities keep raising tuition year after year, college becomes less and l
 ---
 
 ##### Learn how to build your own Invisible Curriculum
-I'll be working on a concise guide on how to build your own **Invisible Curriculum** in the next few weeks. Be the first to get a copy (free) when you join my mailing list down below 😄
+Although everyone's Invisible Curriculum will be different, the guiding principle remains the same:
+
+> Learn **as much as you can** from people that are doing what you want to do 
+
+For me, I wanted to build cutting edge software, so I looked out for people that were software engineers in Silicon Valley. I seeked out advice from upperclassmen who got software internships. I watched youtube videos and read blogs from new grad software engineers and industry veterans. Finally, I distilled their advice to implement it in a way that worked for me. No college professor or advisor can come close -- it's just not in their expertise.
+
+In the future, I plan on sharing a couple more experiences on how I filled in the gap between a degree and a job in software engineering, both to pay it forward for the people that helped me and to make this specific Invisible Curriculum a _little_ more visible.
+
+
 
 <br>
 <br>
