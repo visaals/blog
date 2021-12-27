@@ -1,5 +1,5 @@
 ---
-title: "The Easy Way To Stand Out As An Early CS Student"
+title: "Standing Out As An Early CS Student"
 subtitle: ""
 description: "The concise, stress free guide start your journey to break into tech for 1st and 2nd year CS students."
 featuredImagePreview: "pinpoint_neighborhoods.png"
