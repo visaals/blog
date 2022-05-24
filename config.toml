@@ -63,7 +63,7 @@ theme = "LoveIt"
   # Header config
   [params.header]
     # desktop header mode ("fixed", "normal", "auto")
-    desktopMode = "fixed"
+    desktopMode = "auto"
     # mobile header mode ("fixed", "normal", "auto")
     mobileMode = "auto"
     #  Header title config
@@ -127,7 +127,7 @@ theme = "LoveIt"
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = ""
+      disclaimer = "hello"
     # Home page posts
     [params.home.posts]
       enable = true
@@ -264,7 +264,7 @@ theme = "LoveIt"
     [params.page.seo]
       # Publisher info
       [params.page.seo.publisher]
-        name = "Visaal"
+        name = "Visaal Ambalam"
         [params.page.seo.publisher.logo]
           url = "logo.png"
           width = 127
@@ -304,7 +304,8 @@ theme = "LoveIt"
     enable = true 
     # Google Analytics
     [params.analytics.google]
-      id = "UA-168738250-1"
+      id = "G-GLR3JQMN6X"
+      # id = "UA-168738250-1"
       # whether to anonymize IP
       anonymizeIP = false 
 
@@ -404,7 +405,7 @@ theme = "LoveIt"
 # Author config
 [author]
   name = "Visaal Ambalam"
-  email = "visaal.sivakumar@gmail.com"
+  email = "02peloton.barcode@icloud.com"
   link = ""
 
 # Sitemap config
