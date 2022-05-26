@@ -1,7 +1,7 @@
 ---
 title: "Why I\'m Starting This Blog"
 date: 2020-05-22T11:38:24-04:00
-featuredImagePreview: "ice.jpg"
+featuredImagePreview: "img/ice.jpg"
 draft: false 
 ---
 In a nutshell, I want to! That's it. That's the blog post. (jk) 

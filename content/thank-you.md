@@ -7,7 +7,7 @@ draft: false
 # Thank You for Subscribing
 ### It's great to have ya
 
-![launch-day-image](/launch_day.png)
+![launch-day-image](img/launch_day.png)
 
 If you want to learn a bit **about me**, check out my [about page](/about)
 

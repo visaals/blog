@@ -8,7 +8,7 @@ draft: false
 Look for an email with the following subject line:
 > Confirm Your Subscription To Visaal's Newsletter
 
-![subscribe](/emails.png)
+![subscribe](img/emails.png)
 
 In the meantime, I hope you enjoyed this somewhat tangentially related illustration courtesy of [unDraw](https://undraw.co), an open source design initiative.
 

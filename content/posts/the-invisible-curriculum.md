@@ -3,7 +3,7 @@ title: "The Invisible Curriculum: What Colleges Fail To Teach"
 subtitle: ""
 description: "1 out of 8 college grads are unemployed. ~40% of recent colleges are underemployed. Learn precisely what you need to know before committing 4 years and tens of thousands of dollars to today\'s antiquated academic institutions."
 date: 2020-08-05T22:49:03-07:00
-featuredImagePreview: "tectonic-plates.jpg"
+featuredImagePreview: "img/tectonic-plates.jpg"
 draft: false 
 ---
 <!--more-->
@@ -19,7 +19,7 @@ I was shocked that the Uber driver concluded that even for actuaries, a highly t
 Only after experiencing firsthand the complete **mismatch between excelling in your degree and what is required of you to get a job in my own field of CS** did it dawn on me the Uber driver was right all along. Who you knew did matter *immensely*, but instead of needing to know an exec to get a job, you needed to know the people that can teach you The Invisible Curriculum — the knowledge gap between getting a degree and landing a job.
 
 ##### The Invisible Curriculum is the knowledge gap between getting a degree and getting a job
-![hey how\'s your day been? ](tectonic-plates.jpg)
+![hey how\'s your day been? ](img/tectonic-plates.jpg)
 <sub>actual depiction of the knowledge gap</sub>
 <br>
 <br>

@@ -2,7 +2,7 @@
 title: "Standing Out As An Early CS Student"
 subtitle: ""
 description: "The concise, stress free guide start your journey to break into tech for 1st and 2nd year CS students."
-featuredImagePreview: "pinpoint_neighborhoods.png"
+featuredImagePreview: "img/pinpoint_neighborhoods.png"
 date: 2021-09-12T10:37:19-04:00
 draft: false
 ---
@@ -28,7 +28,7 @@ In college, I got away with showcasing [projects](https://github.com/visaals/Por
 Here’s an example app, [Pinpoint Neighborhoods](http://pure-wave-86480.herokuapp.com/), that I made for fun, built on React, using the [Google Maps API](https://developers.google.com/maps) and [OpenRouteService API](https://openrouteservice.org/dev/#/api-docs). It will find the best neighborhood for you to live in based on what locations you want to live near. 
 
 
-![pinpoint neighborhoods](pinpoint_neighborhoods_2.png)
+![pinpoint neighborhoods](img/pinpoint_neighborhoods_2.png)
 *If I want to live near a Trader Joe's and Blue Bottle Coffee shop in NY, it tells me I should live in Midtown East, Manhattan*
 
 
