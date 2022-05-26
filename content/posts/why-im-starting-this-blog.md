@@ -30,12 +30,14 @@ Just like Aang from *Avatar: The Last Airbender* needed the help of previous ava
 
 ### Chasing The Dream of Passive Income
 
+>  :rotating_light: Update 05/25/2022, two years later and I've realized there's no point in chasing passive income for the sake of passive income. I have enough. I enjoy building (and occasionally writing) things and sharing them with the world, which is what I'll stick to from now on. The point is to escape the rat race, not join another one.
+
 For the past ~2 years, I've followed several creators achieving a passive income through this [process](https://www.youtube.com/watch?v=TH0nNn6SmXw):
 
 1. **consistently** giving away valuable content for free for years, which leads to
 2. **establishing credibility** with an unique online brand, with hours of useful content as proof, which leads to
-3. **gradually** building an audience of people that have gained value from your content, trust your expertise in certain areas, and benefit from your curated content recommendations, which allows you to
-4. **utilize** your audience as a distribution network for occasional paid content, in additional to the usual free content, with the idea is that the paid content is a form of *digital* *wealth* — "create once, sell forever", which compares to *real estate wealth* — "buy property, rent forever" or *business wealth* — "create a profitable business, sell the products forever." 
+3. **building** an audience of people that have gained value from your content, trust your expertise in certain areas, and benefit from your curated content recommendations, which allows you to
+4. **utilize** your audience as a distribution network for occasional paid content, in additional to the usual free content, with the idea is that the paid content is a form of *digital* *wealth* — "create once, sell forever", which compares to *real estate wealth* — "buy property, rent forever" or *business wealth* — "create a profitable business, sell the products forever."
 
 Here are a few examples of people who've followed this exact path growing positive-sum internet economy:
 
@@ -61,13 +63,15 @@ It turns out every single internet creator that "made it" also had these thought
 
 With that in mind, I'm going to start off by writing about the practical things I've done (so far):
 
-1. Step-by-step: How To Double Your $70k SWE Salary
-2. Learn the System, Game the System: how to use the internet to achieve practically anything you want (a meta version of #1, going beyond the common "just google it" advice)
+> :rotating_light: Update 05/25/2022, it's been about two years since I originally made these writing commitments. I make no guarantees I will write about the following topics, ever.
+
+1. ~~Step-by-step: How To Double Your $70k SWE Salary~~ (hint: it's leetcode using a pen and paper, message engineers that work in Big Tech&trade; on LinkedIn to get referals, [practice mock interviews](https://www.pramp.com/#/), build up your [resume](https://thetechresume.com/))
+2. ~~Learn the System, Game the System: how to use the internet to achieve practically anything you want (a meta version of #1, going beyond the common "just google it" advice)~~ (break big scary problems into many small manageable problems, solve those small problems, and do that 100x)
 
 And the stuff I'm currently learning:
 
 1. How to Quickly Understand a Giant Codebase (currently learning)
-2. SWE's Guide to Efficient Note Taking
+2. ~~SWE's Guide to Efficient Note Taking~~ (just write stuff down as you learn it and organize it from time to time)
 3. The Most Frustrating Bugs I've Come Across And How To Avoid Them, a recurring series
 
 And general interesting thoughts and ideas I have and come across:
@@ -82,7 +86,6 @@ If you've made it this far, **thank you**. If you're particularly interested in 
 
 Special thanks to my friends who've endured me talking about starting a blog for years yet still tirelessly encouraging it. You all know who you are :) 
 
-If you want to be notified when I make new content, join my email list (below). 
 <br>
 <br>
 <center>
